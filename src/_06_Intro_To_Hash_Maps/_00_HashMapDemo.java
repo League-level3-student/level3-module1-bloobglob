@@ -17,7 +17,7 @@ public class _00_HashMapDemo {
 		System.out.println("The student at #35413 is: ");
 		System.out.println(studentRoster.get(35413));
 		
-		System.out.println("\nAll the vales:");
+		System.out.println("\nAll the values:");
 		for(String s : studentRoster.values()){
 			System.out.println(s);
 		}
